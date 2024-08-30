@@ -1,0 +1,30 @@
+body{
+ 
+
+ height:800px;
+    background-image:linear-gradient(to right, red ,yellow );
+    
+}
+.figure{
+   
+    padding-right: 350px;   
+    
+}
+
+inline{
+    font-size: xx-large;
+   color: chartreuse;
+   
+  
+}
+p{
+  color: beige;
+text-align:left;
+padding: 40px;
+} 
+.a{
+   color:whitesmoke;
+    text-align:left;
+    padding-right: 150px;
+
+}
